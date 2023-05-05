@@ -1,2 +1,2 @@
-# blog
-fovoo's blog
+# fovoo's blog
+
